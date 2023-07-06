@@ -40,5 +40,4 @@ https://www.instagram.com/appdevshakil/
 ## Quote of the Day
 > "If at first, you don't succeed; call it version 1.0"
 
-<!-- Favorite programming meme or GIF -->
-![Programming Meme](https://media.giphy.com/media/9pyCv6FcM3kCs/giphy.gif)
+
