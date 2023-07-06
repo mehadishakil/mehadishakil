@@ -1,43 +1,19 @@
-<!-- Introduction and profile informations -->
-# Hi there! 👋
-I'm Mehadi Hasan, an Android developer passionate about creating amazing user experiences. Welcome to my GitHub profile!
+<h1 align="center">Hi 👋, I'm Mehadi Hasan</h1>
+<h3 align="center">I'm a passionate and dedicated Android developer</h3>
 
+- 🔭 I’m currently working on [Sylhet Jerysey House](https://github.com/mehadishakil/SylhetJerseyHouse)
 
-<!-- skills -->
-## Skills
-- Android Development (Java, Kotlin)
-- UI/UX Design
-- RESTful APIs
-- Git and Version Control
-- Testing and Debugging
-- Node.js, Express.js, PHP
-- Database (SQLite, RoomDB, MySQL, MongoDB, FireBase)
+- 🌱 I’m currently learning **Kotlin, Node.js, MonogDB**
 
-<!-- Your projects
-## Projects
-- [Project 1](https://github.com/yourusername/project1): Brief description of the project.
-- [Project 2](https://github.com/yourusername/project2): Brief description of the project.
-- [Project 3](https://github.com/yourusername/project3): Brief description of the project.
- -->
- 
-<!-- blog or articles -->
-## Blog & Articles
-- I regularly Post about Android development on Social Media. Check out my latest posts!
-https://www.instagram.com/appdevshakil/
+- 📝 I regularly write articles on [https://www.instagram.com/appdevshakil/](https://www.instagram.com/appdevshakil/)
 
-<!-- social media and contact information -->
-## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/mehadihasan-app-developer/
-- Twitter: https://twitter.com/MehadiShakil1
-- Email: mehadishakil469@gmail.com
+- 💬 Ask me about **Android, Java, Kotlin, Database**
 
-<!-- Your GitHub stats
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
- -->
- 
-<!-- Your favorite programming quote -->
-## Quote of the Day
-> "If at first, you don't succeed; call it version 1.0"
+- 📫 How to reach me **mehadishakil469@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
