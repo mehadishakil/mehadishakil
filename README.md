@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mehadi Hasan</h1>
 <h2 align="center">A passionate and dedicated Android developer</h3>
 
-- 🔭 I’m currently working on [Sylhet Jerysey House](https://github.com/mehadishakil/SylhetJerseyHouse)
+- 🔭 I’m currently working on this project [Sylhet Jerysey House](https://github.com/mehadishakil/SylhetJerseyHouse)
 
 - 📝 I regularly write articles on [https://www.instagram.com/appdevshakil/](https://www.instagram.com/appdevshakil/)
 
