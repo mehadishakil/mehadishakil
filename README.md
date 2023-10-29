@@ -6,20 +6,11 @@
 
 - 🔭 I’m currently working on [Sylhet Jerysey House](https://github.com/mehadishakil/SylhetJerseyHouse)
 
-- 🌱 I’m currently learning **Kotlin, Node.js, MonogDB**
-
 - 📝 I regularly write articles on [https://www.instagram.com/appdevshakil/](https://www.instagram.com/appdevshakil/)
 
 - 💬 Ask me about **Android, Java, Kotlin, Database**
 
 - 📫 How to reach me **mehadishakil469@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/mehadishakil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mehadishakil1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehadihasan-app-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehadihasan-app-developer/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/appdevshakil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/appdevshakil/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
