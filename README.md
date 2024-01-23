@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on this project [PETOPIA](https://github.com/mehadishakil/PETOPIA)
 
-- 📝 I regularly write articles on [https://www.instagram.com/appdevshakil/](https://www.instagram.com/appdevshakil/)
-
 - 💬 Ask me about **Android, Java, Kotlin, Database**
 
 - 📫 How to reach me **mehadishakil469@gmail.com**
