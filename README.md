@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Mehadi Hasan</h1>
 <h2 align="center">A passionate and dedicated App developer</h3>
 
-- 🔭 I’m currently working on this project [PETOPIA](https://github.com/mehadishakil/PETOPIA)
-
-- 💬 Ask me about **Android, Java, Kotlin, and Databases**
-
 - 📫 How to reach me **mehadishakil469@gmail.com**
 
 ## Favorite Programming Quote
